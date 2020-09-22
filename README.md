@@ -1,6 +1,6 @@
 # Timeline
 
-Most Minimalistic Calendar Ever! [Live](timeline-berkin.web.app)
+Most Minimalistic Calendar Ever! [Live](https://timeline-berkin.web.app)
 
 ### Usage
 
