@@ -1,3 +1,3 @@
 # Timeline
 
-Most Minimalistic Calendar Ever! [Live](https://berkinakkaya.github.io/Timeline)
+Most Minimalistic Calendar Ever! [Live](timeline-berkin.web.app)
